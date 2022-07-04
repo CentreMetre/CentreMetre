@@ -1,10 +1,10 @@
 Hi, I’m @CentreMetre
-- I’m interested in ...
+- I’m interested in Python, C# and Winforms
 - I’m currently learning ...
-- I’m looking to collaborate on ...
-- How to reach me:
-Discord:
-CentreMetre#9535
+- I’m looking to collaborate on Winforms apps
+- How to reach me <br>
+- Discord: <br>
+---CentreMetre#9535
 
 <!---
 CentreMetre/CentreMetre is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
