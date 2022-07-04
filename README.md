@@ -1,6 +1,6 @@
 Hi, I’m @CentreMetre
 - I’m interested in Python, C# and Winforms
-- I’m currently learning ...
+- I’m wanting to learn LUA for Payday 2 mods
 - I’m looking to collaborate on Winforms apps
 - How to reach me <br>
 - Discord: <br>
