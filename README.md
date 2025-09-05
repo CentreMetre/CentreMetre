@@ -1,11 +1,17 @@
-Hi, I’m @CentreMetre
-- I’m interested mainly in Java
-- I’m wanting to learn LUA for Payday 2 mods, and the language necessary for PayDay 3 mods when that releases. <br>
+Hi, I’m CentreMetre
+- I’m most experience in Java
+- I'm interested in learning frontend
+- I’m wanting to learn LUA for Payday 2 mods
 <br>
-How to reach me: <br>
-Steam: <br>
-- [CentreMetre](https://steamcommunity.com/id/CentreMetre/)
+My boot.dev profile: <br>
+- https://www.boot.dev/u/centremetre
+<br>
 
+How to reach me:<br>
+Steam:<br>
+-  CentreMetre | https://steamcommunity.com/id/CentreMetre/
+
+  
 <!---
 CentreMetre/CentreMetre is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
