@@ -3,8 +3,8 @@ Hi, I’m @CentreMetre
 - I’m wanting to learn LUA for Payday 2 mods, and the language necessary for PayDay 3 mods when that releases. <br>
 <br>
 How to reach me: <br>
-Discord: <br>
-- @CentreMetre (I'm not on there much tho) <br>
+Steam: <br>
+- [CentreMetre](https://steamcommunity.com/id/CentreMetre/)
 
 <!---
 CentreMetre/CentreMetre is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
