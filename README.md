@@ -4,8 +4,11 @@ Hi, I’m CentreMetre
 - I’m wanting to learn LUA for Payday 2 mods
 <br>
 My boot.dev profile: <br>
-- https://www.boot.dev/u/centremetre
+https://www.boot.dev/u/centremetre
 <br>
+<p align="left">
+  <img src="https://api.boot.dev/v1/users/public/150cefcf-3be1-4ec8-882d-1f7dd2b016b9/thumbnail" >
+</p>
 
 How to reach me:<br>
 Steam:<br>
